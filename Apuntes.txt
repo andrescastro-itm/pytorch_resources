@@ -8,3 +8,7 @@ Guía 1. Tensores
 	- Estructura de dato usada por PyTorch
 	- Similar a arreglos de numpy, pero más poderosos
 	- Con ellos se pueden calcular automáticamente gradientes (beneficioso para Deep)
+	
+Guía 2. Autograd/grafo computacional
+	-
+	-
