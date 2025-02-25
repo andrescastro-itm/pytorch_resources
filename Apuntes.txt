@@ -12,3 +12,5 @@ Guía 1. Tensores
 Guía 2. Autograd/grafo computacional
 	-
 	-
+
+Guía 3. ...
