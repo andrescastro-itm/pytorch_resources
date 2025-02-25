@@ -4,13 +4,24 @@ Guía 0. Configuración del sistema
 	- 
 	
 Guía 1. Tensores
-	.Módulo 6 de coursera packt
-	- Estructura de dato usada por PyTorch
+	- Módulo 6 de coursera packt
+	- Estructura de dato usada por PyTorch (.data, .item, torch.rand, torch.ones,...)
 	- Similar a arreglos de numpy, pero más poderosos
 	- Con ellos se pueden calcular automáticamente gradientes (beneficioso para Deep)
+	- Para lo anterior, aprovechamos la propiedad requires_grad
 	
 Guía 2. Autograd/grafo computacional
-	-
+	- Module 6: From Tensors to Computational Graphs (101) coursera packt y siguiente video
 	-
 
-Guía 3. ...
+Guía 3. Regresión Lineal (modelo de una sola neurona)
+	- Creación de modelo (clase) en PyTorch heredando desde nn.Module
+	- Entrenamiento con PyTorch (zero_grad)
+	- Evaluación del modelo
+	
+Guía 4. Regresión Logística (forward, backprop)
+	- Función de pérdida para clasificación
+	- Función de activación
+	- Datasets, Dataloaders, Batches
+	
+Guía 5. Guardar/Cargar modelos
