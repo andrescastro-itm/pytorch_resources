@@ -1,0 +1,10 @@
+Guía 0. Configuración del sistema
+	- Proponer la instalación de anaconda o miniconda
+	- Proponer instalación de entorno virtual (crear dos uno cpu y uno gpu?)
+	- 
+	
+Guía 1. Tensores
+	.Módulo 6 de coursera packt
+	- Estructura de dato usada por PyTorch
+	- Similar a arreglos de numpy, pero más poderosos
+	- Con ellos se pueden calcular automáticamente gradientes (beneficioso para Deep)
