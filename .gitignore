@@ -1,5 +1,6 @@
 **/*.ipynb_checkpoints/
 **/*data/
 **/__pycache__
+**/temp/
 Pruebas.ipynb
 Apuntes.txt
