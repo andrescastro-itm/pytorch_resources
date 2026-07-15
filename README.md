@@ -9,7 +9,7 @@ Para instalar el entorno virtual:
 
 Contenido del curso:
 
--Sesión 1:
+- Sesión 1:
     - [Introducción a Tensores en PyTorch](/1_tensores.ipynb)
     - [Grafos Computacionales y Autograd en PyTorch](/2_GrafoComputacional.ipynb)
 -
