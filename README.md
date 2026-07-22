@@ -12,4 +12,5 @@ Contenido del curso:
 - Sesión 1:
     - [Introducción a Tensores en PyTorch](/1_tensores.ipynb)
     - [Grafos Computacionales y Autograd en PyTorch](/2_GrafoComputacional.ipynb)
--
+- Sesión 2:
+    - [Regresión Lineal con PyTorch](/3_RegresionLineal.ipynb)
