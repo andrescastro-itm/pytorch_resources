@@ -14,3 +14,6 @@ Contenido del curso:
     - [Grafos Computacionales y Autograd en PyTorch](/2_GrafoComputacional.ipynb)
 - Sesión 2:
     - [Regresión Lineal con PyTorch](/3_RegresionLineal.ipynb)
+- Sesión 3:
+    - [Regresión Logística con PyTorch](/4_RegresionLogistica.ipynb)
+    - [Regresión Softmax con PyTorch](/5_RegresionSoftmax.ipynb)
