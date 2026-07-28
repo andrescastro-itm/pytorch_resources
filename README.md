@@ -17,3 +17,6 @@ Contenido del curso:
 - Sesión 3:
     - [Regresión Logística con PyTorch](/4_RegresionLogistica.ipynb)
     - [Regresión Softmax con PyTorch](/5_RegresionSoftmax.ipynb)
+- Sesión 4:
+    - [Red Neuronal Multicapa](/6_RedNeuronalMulticapa.ipynb)
+    - [Guardar y Cargar modelos con PyTorch](/7_GuardarCargarModelos.ipynb)
