@@ -20,3 +20,6 @@ Contenido del curso:
 - Sesión 4:
     - [Red Neuronal Multicapa](/6_RedNeuronalMulticapa.ipynb)
     - [Guardar y Cargar modelos con PyTorch](/7_GuardarCargarModelos.ipynb)
+- Sesión 5:
+    - [Convoluciones](/8_Convoluciones.ipynb)
+    - [Red Neuronal Convolucional - CNN](/9_CNN.ipynb)
