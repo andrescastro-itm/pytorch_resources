@@ -23,3 +23,6 @@ Contenido del curso:
 - Sesión 5:
     - [Convoluciones](/8_Convoluciones.ipynb)
     - [Red Neuronal Convolucional - CNN](/9_CNN.ipynb)
+- Sesión 6:
+    - [Transfer Learning Personalizado](/TransferLearning/10_TransferLearning_Dataset_Personalizado.ipynb)
+    - [Transfer Learning CIFAR10](/TransferLearning/11_TransferLearning.ipynb)
